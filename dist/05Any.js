@@ -15,3 +15,5 @@ items.push(false);
 function addTogether(value) {
     return value + value;
 }
+// Any can be useful when initially migrating from js to ts
+// because using any won't cause errors initially and you can slowly adapt to typescript

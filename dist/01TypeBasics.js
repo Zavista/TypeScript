@@ -1,5 +1,5 @@
 "use strict";
-let age = 22;
+let age = 21;
 //TypeScript can "infer" the type of a variable
 // age = 'hello'
 // Types are static and cannot be changed
